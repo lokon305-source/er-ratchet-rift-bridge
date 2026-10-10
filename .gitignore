@@ -1,0 +1,10 @@
+﻿# Build output and game binaries never belong here
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.log
+*.shm
+re/cols.pkl
+re/RiftApart.exe
